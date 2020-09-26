@@ -1,2 +1,2 @@
-# leetcode1
-leetcode练习题第一次刷题
+# leetcode
+leetcode练习题
